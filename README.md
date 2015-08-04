@@ -4,6 +4,8 @@ ___
 ### Contributors
 
  * Author: [lafin](https://github.com/lafin)
+ * Дорожные события на карте.
+ * Пост: http://habrahabr.ru/post/262119/
 
 ### License
 
